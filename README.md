@@ -1,4 +1,4 @@
-# **Netflix Content Analysis **  
+# **Netflix Content Analysis**  
 
 ## **📌 Introduction**  
 This project analyzes Netflix's movie and TV show content to uncover trends in ratings, genres, directors, and content types over time. By leveraging data visualization and statistical techniques, exploring what types of content dominate Netflix and how viewer preferences have evolved.  
